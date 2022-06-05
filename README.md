@@ -1,2 +1,2 @@
 # MicroFrameworkMVC
-Micro Framework MVC em PHP
+Criação de um Micro Framework MVC em PHP.

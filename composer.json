@@ -1,0 +1,15 @@
+{
+  "name": "leonardo/micro-framework-mvc",
+  "authors": [
+    {
+      "name": "Leonardo Oliveira",
+      "email": "Leonardo_oliveira7@hotmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  }
+}
